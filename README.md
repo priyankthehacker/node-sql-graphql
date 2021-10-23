@@ -13,3 +13,6 @@ npm install
 ```
 npm start
 ```
+
+## Branching Strategy
+

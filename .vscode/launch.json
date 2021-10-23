@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "app.js",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\src\\app.js"
+    }
+  ]
+}
